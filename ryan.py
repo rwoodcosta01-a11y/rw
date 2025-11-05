@@ -4,9 +4,10 @@ def escolher_palavra():
     """Escolhe uma palavra aleatória de uma categoria."""
     
     categorias = {
-        'valesafe': ['valesafe', 'equipamentos', 'loja'],
-        'videogame': ['controle', 'xbox', 'playstation', 'jogos'],
-        'paises': ['brasil', 'argentina', 'japao', 'alemanha', 'italia']
+        'valesafe': ['valesafe', 'equipamentos', 'loja', 'atendimento'],
+        'videogame': ['controle', 'xbox', 'playstation', 'jogos', 'fortnite', 'atari', 'fliperama'],
+        'paises': ['brasil', 'argentina', 'japao', 'alemanha', 'italia', 'india', 'egito', 'russia'],
+        'comidas': ['hamburguer, refrigerante', 'batata', 'panquecas', 'agua', 'fastfood']
     }
     categoria = random.choice(list(categorias.keys()))
 
