@@ -15,7 +15,7 @@ A aplicação consiste no famoso 'jogo da forca', onde é sorteado aleatoriament
 
 <img width="516" height="438" alt="Image" src="https://github.com/user-attachments/assets/62ebb0db-1bf2-4b21-b5f7-61892d7db9da" />
 
-#É possível também reiniciar o jogo, gerando assim uma nova palavra
+### É possível também reiniciar o jogo, gerando uma nova palavra
 
 # Tecnologias utilizadas
 
