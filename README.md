@@ -1,7 +1,7 @@
 # Jogo da forca
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rwoodcosta01-a11y/estudo_ryan/blob/main/LICENSE) 
 
-# Sobre o projeto
+## Sobre o projeto
 
 Essa aplicação full stack durante o treinamento de desenvolver softwares da **ValeSafe**
 
@@ -20,8 +20,7 @@ A aplicação consiste no famoso 'jogo da forca', onde é sorteado aleatoriament
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / RANDOM / TypeScript
+- HTML / RANDOM / TypeScript,
 
 
-
-# FIQUE Á VONTADE PARA VER OUTROS PROJETOS! OBRIGADO PELA ATENÇÃO  :)
+Esse foi meu projeto sobre jogo da forca, espero que todos os pontos tenham ficado bem desenvolvidos e exlicados de forma clara. Desde já, agradeço a atenção.
