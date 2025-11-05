@@ -7,19 +7,21 @@ Essa aplicação full stack durante o treinamento de desenvolver softwares da **
 
 A aplicação consiste no famoso 'jogo da forca', onde é sorteado aleatoriamente uma palavra, apartir dessa palavra, é necesário digitar UMA letra do alfabeto, após a ação será mostrado se a letra faz parte ou não da palavra sorteada.
 
-## Código após efetuar todo processo de busca de dados
+## Como o código irá ficar após seu início
 
-<img width="655" height="515" alt="Image" src="https://github.com/user-attachments/assets/eb53a613-037f-4e9f-9a7a-994e29119f6d" />
+<img width="385" height="403" alt="Image" src="https://github.com/user-attachments/assets/f6d45d1a-7e02-436a-a3fb-a6e231b98f5b" />
 
-## Layout Inicial
+## Layout final após termino do jogo
 
-<img width="300" height="851" alt="Image" src="https://github.com/user-attachments/assets/f9da0991-fe22-4181-b126-ce6d730a27dd" />
+<img width="516" height="438" alt="Image" src="https://github.com/user-attachments/assets/62ebb0db-1bf2-4b21-b5f7-61892d7db9da" />
+
+#É possível também reiniciar o jogo, gerando assim uma nova palavra
 
 # Tecnologias utilizadas
-## Back end
-- Java
 
-- Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / RANDOM / TypeScript
 
+
+
+# FIQUE Á VONTADE PARA VER OUTROS PROJETOS! OBRIGADO PELA ATENÇÃO  :)
