@@ -5,7 +5,7 @@
 
 Essa aplicação full stack durante o treinamento de desenvolver softwares da **ValeSafe**
 
-A aplicação consiste no famoso 'jogo da forca', onde é sorteado aleatoriamente uma palavra, apartir dessa palavra, é necesário digitar UMA letra do alfabeto, após a ação será mostrado se a letra faz parte ou não da palavra sorteada.
+A aplicação consiste no famoso 'jogo da forca', onde é sorteado aleatoriamente uma palavra, apartir dessa palavra, é necesário digitar UMA letra do alfabeto, após a ação, será mostrado se a letra faz parte ou não da palavra sorteada.
 
 ## Como o código irá ficar após seu início
 
